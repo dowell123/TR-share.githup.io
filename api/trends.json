@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T15:23:09.039682+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-01-27T16:23:49.679204+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -35,22 +35,12 @@
           "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时12分 ~ 15时23分]"
-        },
-        {
-          "title": "韩国人还在睡梦中，特朗普突然下手了",
-          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时12分 ~ 15时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时12分 ~ 16时23分]"
         },
         {
           "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
@@ -61,8 +51,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时42分 ~ 15时23分]"
+          "appearance_count": 10,
+          "time_info": "[11时42分 ~ 16时23分]"
+        },
+        {
+          "title": "韩国人还在睡梦中，特朗普突然下手了",
+          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时12分 ~ 16时23分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -88,8 +89,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时16分 ~ 15时23分]"
+          "appearance_count": 13,
+          "time_info": "[07时16分 ~ 16时23分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -174,6 +175,19 @@
           "time_info": "07时16分"
         },
         {
+          "title": "韩国人还在睡梦中特朗普突然下手",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 16时23分]"
+        },
+        {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
           "url": "https://flash.jin10.com/detail/20260127024854559800",
           "source": "金十数据",
@@ -223,16 +237,16 @@
           "time_info": "[03时19分 ~ 04时19分]"
         },
         {
-          "title": "韩国人还在睡梦中特朗普突然下手",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
           "ranks": [
-            20,
-            11
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 16时23分]"
         },
         {
           "title": "特朗普宣布对韩国加征关税",
@@ -377,24 +391,13 @@
           "time_info": "[09时12分 ~ 09时13分]"
         },
         {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
           "title": "韩国青瓦台：就美国总统特朗普提及的关税一事，正通过多种渠道进行核实。",
           "url": "https://flash.jin10.com/detail/20260127150805425800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -529,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "特朗普施压伊朗",
+          "url": "https://www.douyin.com/hot/2380655",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "特朗普：将韩国对等关税从15%提高至25%",
@@ -754,8 +768,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时12分 ~ 15时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时12分 ~ 16时23分]"
         },
         {
           "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
@@ -942,17 +956,6 @@
       "match_count": 16,
       "titles": [
         {
-          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时16分 ~ 15时23分]"
-        },
-        {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
@@ -962,6 +965,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时25分 ~ 06时16分]"
+        },
+        {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[07时16分 ~ 16时23分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
@@ -1303,11 +1318,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 15时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 16时23分]"
         },
         {
           "title": "OpenAI首席信息安全官宣布将离职",
@@ -1448,8 +1464,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 16时23分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
