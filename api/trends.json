@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T10:14:16.716968+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-05-08T13:24:58.608786+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 96,
+      "match_count": 104,
       "titles": [
         {
           "title": "伊朗划定两条霍尔木兹航道，油价应声大跌",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 10时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 13时24分]"
         },
         {
           "title": "伊朗确认将在美加墨世界杯开幕前 14 天抵达美国，如何看待这一决定？伊朗队世界杯发挥可能如何？",
@@ -60,6 +60,31 @@
           "time_info": "[00时02分 ~ 07时45分]"
         },
         {
+          "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
+          "url": "https://wallstreetcn.com/articles/3771778",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 13时24分]"
+        },
+        {
+          "title": "美中央司令部：对伊朗军事设施实施定点打击",
+          "url": "https://www.cls.cn/detail/2365492",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 13时24分]"
+        },
+        {
           "title": "伊朗战争丨美军对伊朗格什姆岛及阿巴斯港发动袭击",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -71,28 +96,15 @@
           "time_info": "[07时45分 ~ 10时14分]"
         },
         {
-          "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
-          "url": "https://wallstreetcn.com/articles/3771778",
-          "source": "华尔街见闻",
+          "title": "伊朗战争丨伊朗发布打击美国军舰视频",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            3,
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 10时14分]"
-        },
-        {
-          "title": "美中央司令部：对伊朗军事设施实施定点打击",
-          "url": "https://www.cls.cn/detail/2365492",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 10时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "伊朗议会国家安全官员：没有任何铀运出伊朗。",
@@ -161,6 +173,18 @@
           "time_info": "06时02分"
         },
         {
+          "title": "【早报】美方：定点打击伊军事设施；伊朗武装部队实施反击",
+          "url": "https://www.cls.cn/detail/2365519",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 13时24分]"
+        },
+        {
           "title": "美国军方：5月7日，当美国海军导弹驱逐舰穿越霍尔木兹海峡驶向阿曼湾时，美军拦截了伊朗的袭击，并进行了自卫反击。",
           "url": "https://flash.jin10.com/detail/20260508053448834800",
           "source": "金十数据",
@@ -227,18 +251,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "【早报】美方：定点打击伊军事设施；伊朗武装部队实施反击",
-          "url": "https://www.cls.cn/detail/2365519",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 10时14分]"
-        },
-        {
           "title": "伊朗Bandar Abbas市再次响起爆炸声。（伊朗媒体NEHR）",
           "url": "https://wallstreetcn.com/livenews/3100200",
           "source": "华尔街见闻-快讯",
@@ -271,8 +283,55 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 13时24分]"
+        },
+        {
+          "title": "美国和伊朗又打起来了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时45分 ~ 10时14分]"
+          "time_info": "[10时14分 ~ 13时24分]"
+        },
+        {
+          "title": "伊朗打击美舰 美空袭伊沿海地区",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BE%8E%E8%88%B0+%E7%BE%8E%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%B2%BF%E6%B5%B7%E5%9C%B0%E5%8C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 13时24分]"
+        },
+        {
+          "title": "伊朗打击美舰 美袭击伊油轮",
+          "url": "https://www.toutiao.com/trending/7637289576934936100/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 13时24分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 70 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035858261681730120",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 13时24分]"
         },
         {
           "title": "预测平台Kalshi的交易员们认为：美国要到2027年才能与伊朗达成核协议的概率上升。",
@@ -285,6 +344,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 03时29分]"
+        },
+        {
+          "title": "伊朗：最高领袖穆杰塔巴全面掌控局势",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E5%85%A8%E9%9D%A2%E6%8E%8C%E6%8E%A7%E5%B1%80%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 13时24分]"
         },
         {
           "title": "WTI原油期货转涨，布伦特原油期货重返100美元整数位心理关口上方。 据华尔街日报，伊朗拒绝美国关于霍尔木兹海峡的方案，认为其不切实际。",
@@ -308,39 +379,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 01时54分]"
-        },
-        {
-          "title": "伊朗打击美舰 美袭击伊油轮",
-          "url": "https://www.toutiao.com/trending/7637289576934936100/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "伊朗打击美舰 美空袭伊沿海地区",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BE%8E%E8%88%B0+%E7%BE%8E%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%B2%BF%E6%B5%B7%E5%9C%B0%E5%8C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "美国和伊朗又打起来了",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
         },
         {
           "title": "据德黑兰时报：伊朗德黑兰西部启动防空系统。",
@@ -393,18 +431,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 70 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035858261681730120",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -486,6 +513,17 @@
           "time_info": "03时29分"
         },
         {
+          "title": "丰田预计年度利润下降20%，受伊朗战争影响",
+          "url": "https://wallstreetcn.com/livenews/3100403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "据伊朗Press TV：伊朗最高联合军事指挥部称，美国在一些地区国家的配合下，对平民地区进行了空袭。",
           "url": "https://flash.jin10.com/detail/20260508051504904800",
           "source": "金十数据",
@@ -550,6 +588,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "伊朗发生4.5级地震",
+          "url": "https://wallstreetcn.com/livenews/3100401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗向试图扣押一艘伊朗油轮的美军部队发射了导弹。",
@@ -618,6 +667,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
+          "url": "https://www.zhihu.com/question/2036007359844020985",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社报道，在格什姆岛听到了爆炸声。",
           "url": "https://flash.jin10.com/detail/20260508025520184800",
           "source": "金十数据",
@@ -649,17 +709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "伊朗：最高领袖穆杰塔巴全面掌控局势",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E5%85%A8%E9%9D%A2%E6%8E%8C%E6%8E%A7%E5%B1%80%E5%8A%BF",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
         },
         {
           "title": "伊朗阿巴斯港市附近听到爆炸声",
@@ -759,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗发生4.5级地震",
+          "url": "https://flash.jin10.com/detail/20260508124008405800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美媒：美军袭击伊朗南部多地",
@@ -902,6 +962,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗：美国巴林提交的霍尔木兹海峡安理会决议草案存“严重缺陷”",
+          "url": "https://wallstreetcn.com/livenews/3100388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗南部米纳布（Minab）传出爆炸声。",
@@ -1069,6 +1140,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "伊朗公布向美驱逐舰发射导弹视频",
+          "url": "https://flash.jin10.com/detail/20260508122405445800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "伊朗革命卫队海军：击退3艘美军驱逐舰",
           "url": "https://wallstreetcn.com/livenews/3100230",
           "source": "华尔街见闻-快讯",
@@ -1078,12 +1160,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "阿联酋称埃及战机已部署在其境内以应对伊朗袭击",
+          "url": "https://wallstreetcn.com/livenews/3100370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -1116,8 +1209,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 10时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 13时24分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -1137,11 +1230,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 10时14分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 13时24分]"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
@@ -1223,13 +1317,46 @@
           "time_info": "03时29分"
         },
         {
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
+          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "美国贸易法院裁定特朗普10%全球关税无效",
           "url": "https://wallstreetcn.com/articles/3771788",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -1298,6 +1425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://wallstreetcn.com/livenews/3100397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美国总统特朗普：伊朗由疯狂的领导人掌控，如果有机会使用核武器，他们会毫不犹豫地这样做——但他们永远不会有这个机会。",
@@ -1388,6 +1526,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "伊朗又追着阿联酋打，特朗普却忙着催伊朗签协议",
+          "url": "https://flash.jin10.com/detail/20260508123631773800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "美国总统特朗普：对伊朗目标的军事袭击就是一个“小剐蹭”（love tap）而已。 停火协议正在推进之中，停火是有效的。（ABC新闻）",
           "url": "https://wallstreetcn.com/livenews/3100240",
           "source": "华尔街见闻-快讯",
@@ -1430,6 +1579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://flash.jin10.com/detail/20260508122632973800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美国、巴西两国首脑华盛顿会晤，卢拉认为：特朗普不会对即将到来的巴西选举产任何影响",
@@ -1515,8 +1675,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 13时24分]"
+        },
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时45分 ~ 10时14分]"
+          "time_info": "[10时14分 ~ 13时24分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，金银冲高回落",
@@ -1528,17 +1699,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
-        },
-        {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
         },
         {
           "title": "美股大类资产类ETF普遍收跌，小盘股指ETF、新兴市场ETF至少跌超1.3%",
@@ -1632,7 +1792,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -1645,8 +1805,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时29分 ~ 10时14分]"
+          "appearance_count": 7,
+          "time_info": "[03时29分 ~ 13时24分]"
         },
         {
           "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
@@ -1694,6 +1854,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "OpenAI：通过API中的新模型推动语音智能发展。",
           "url": "https://flash.jin10.com/detail/20260508011634197800",
           "source": "金十数据",
@@ -1727,11 +1898,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 10时14分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 13时24分]"
         },
         {
           "title": "金价破4700追不追",
@@ -1758,6 +1930,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数7日上涨",
+          "url": "https://flash.jin10.com/detail/20260508041832166800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "高盛：强力超配中国，且A股的投资价值显著优于H股。将沪深300指数的12个月目标位大幅上调至5300点，隐含约9%的价格涨幅及13%的美元总回报。",
+          "url": "https://wallstreetcn.com/livenews/3100390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "周四（5月7日）纽约尾盘，ICE美元指数涨0.08%，报98.10点，日内交投区间为97.82-98.17点，北京时间22:30以来持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3100168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1768,7 +1979,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -1786,30 +1997,19 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美元指数7日上涨",
-          "url": "https://flash.jin10.com/detail/20260508041832166800",
-          "source": "金十数据",
+          "title": "DeepSeek-TUI是如何火起来的",
+          "url": "https://www.toutiao.com/trending/7637338304165187078/",
+          "source": "今日头条",
           "ranks": [
-            11
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "周四（5月7日）纽约尾盘，ICE美元指数涨0.08%，报98.10点，日内交投区间为97.82-98.17点，北京时间22:30以来持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3100168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "13时24分"
         }
       ]
     }
