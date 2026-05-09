@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T20:59:07.859435+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2026-05-09T22:17:54.201588+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
         {
           "title": "现场画面：伊朗海军扣押一艘油轮",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时41分 ~ 20时59分]"
+          "appearance_count": 12,
+          "time_info": "[13时41分 ~ 22时17分]"
         },
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[03时07分 ~ 20时59分]"
+          "appearance_count": 20,
+          "time_info": "[03时07分 ~ 22时17分]"
         },
         {
           "title": "伊朗成立波斯湾海峡管理局，过霍尔木兹的船要先填40多道题？",
@@ -75,8 +75,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时41分 ~ 20时59分]"
+          "appearance_count": 12,
+          "time_info": "[13时41分 ~ 22时17分]"
         },
         {
           "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
@@ -150,6 +150,39 @@
           "time_info": "[01时08分 ~ 06时49分]"
         },
         {
+          "title": "机构：伊朗战争正以前所未有的速度消耗全球石油缓冲库存",
+          "url": "https://flash.jin10.com/detail/20260509214114227800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
+          "url": "https://wallstreetcn.com/livenews/3101078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
+          "url": "https://flash.jin10.com/detail/20260509211628079800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "非农缓解“滞胀”担忧，苹果、英伟达股价续刷新高，伊朗局势恶化，布油重返百元关口，现货白银涨3%",
           "url": "https://wallstreetcn.com/articles/3771825",
           "source": "华尔街见闻",
@@ -161,6 +194,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时08分 ~ 05时53分]"
+        },
+        {
+          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
+          "url": "https://wallstreetcn.com/livenews/3101051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 22时17分]"
         },
         {
           "title": "消息人士：万斯与卡塔尔首相的会晤将涵盖美卡关系及伊朗局势，重点关注液化天然气市场和地区稳定。（路透）",
@@ -183,17 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
-          "url": "https://wallstreetcn.com/livenews/3101068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
         },
         {
           "title": "美伊交火意味着此轮谈判破裂？伊朗大使答凤凰提问",
@@ -232,19 +268,6 @@
           "time_info": "[01时08分 ~ 06时49分]"
         },
         {
-          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
-          "url": "https://wallstreetcn.com/livenews/3101051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 20时59分]"
-        },
-        {
           "title": "伊朗足协公布参加2026年美加墨世界杯10项条件",
           "url": "https://wallstreetcn.com/livenews/3101035",
           "source": "华尔街见闻-快讯",
@@ -270,6 +293,18 @@
           "time_info": "[06时49分 ~ 07时50分]"
         },
         {
+          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
+          "url": "https://wallstreetcn.com/livenews/3101068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 22时17分]"
+        },
+        {
           "title": "标普：（关于以色列）预计美国-伊朗和以色列-哈马斯停火协议将广泛生效。",
           "url": "https://flash.jin10.com/detail/20260509040832297800",
           "source": "金十数据",
@@ -280,6 +315,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时51分 ~ 07时50分]"
+        },
+        {
+          "title": "伊朗战争丨中东战火不断，为何全球股市不跌反涨？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时17分]"
         },
         {
           "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
@@ -321,6 +367,17 @@
           "time_info": "[17时11分 ~ 19时44分]"
         },
         {
+          "title": "停火期间遇袭，伊朗会强硬反击吗？伊朗大使回应凤凰",
+          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时17分]"
+        },
+        {
           "title": "伊朗哈尔克岛附近疑似发生石油泄漏",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%93%88%E5%B0%94%E5%85%8B%E5%B2%9B%E9%99%84%E8%BF%91%E7%96%91%E4%BC%BC%E5%8F%91%E7%94%9F%E7%9F%B3%E6%B2%B9%E6%B3%84%E6%BC%8F",
           "source": "百度热搜",
@@ -331,17 +388,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时50分 ~ 05时53分]"
-        },
-        {
-          "title": "伊朗战争丨中东战火不断，为何全球股市不跌反涨？",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "鲁比奥访意公开施压 质疑为何不支持对伊朗动武",
@@ -356,15 +402,16 @@
           "time_info": "[15时47分 ~ 17时11分]"
         },
         {
-          "title": "停火期间遇袭，伊朗会强硬反击吗？伊朗大使回应凤凰",
-          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
-          "source": "凤凰网",
+          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
+          "url": "https://flash.jin10.com/detail/20260509193905160800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "time_info": "[20时59分 ~ 22时17分]"
         },
         {
           "title": "伊朗官员：最高领袖非常健康",
@@ -455,17 +502,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
-        },
-        {
-          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
-          "url": "https://flash.jin10.com/detail/20260509193905160800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
         },
         {
           "title": "【伊朗议员：美对伊海上封锁行动将遭军事回应】伊朗议会国家安全委员会成员哈兹里安当地时间8日在接受当地媒体采访时表示，“从现在起，美国对伊朗海上封锁的行动将遭到伊朗的军事回应。美国应该为其驱逐舰提供多艘护航舰艇，以便在驱逐舰沉没时能够营救其舰员”。公开资料显示，该议员并不在伊朗政府中担任职务，无法确定其表态是否代表伊朗官方立场。（央视）",
@@ -769,8 +805,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时07分 ~ 20时59分]"
+          "appearance_count": 14,
+          "time_info": "[10时07分 ~ 22时17分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
@@ -832,11 +868,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时11分 ~ 20时59分]"
+          "appearance_count": 8,
+          "time_info": "[17时11分 ~ 22时17分]"
         },
         {
           "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
@@ -851,6 +888,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时46分 ~ 19时44分]"
+        },
+        {
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时46分 ~ 22时17分]"
         },
         {
           "title": "特朗普：俄乌9日起停火三天并交换战俘",
@@ -873,18 +923,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时46分 ~ 18时51分]"
         },
         {
           "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
@@ -1328,8 +1366,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时07分 ~ 20时59分]"
+          "appearance_count": 14,
+          "time_info": "[10时07分 ~ 22时17分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -1341,8 +1379,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时50分 ~ 20时59分]"
+          "appearance_count": 15,
+          "time_info": "[07时50分 ~ 22时17分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -1520,11 +1558,12 @@
             5,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时11分 ~ 20时59分]"
+          "appearance_count": 8,
+          "time_info": "[17时11分 ~ 22时17分]"
         },
         {
           "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
@@ -1619,7 +1658,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -1632,8 +1671,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时46分 ~ 20时59分]"
+          "appearance_count": 10,
+          "time_info": "[15时46分 ~ 22时17分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -1652,11 +1691,23 @@
           "url": "https://wallstreetcn.com/articles/3771878",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时11分 ~ 20时59分]"
+          "appearance_count": 6,
+          "time_info": "[17时11分 ~ 22时17分]"
+        },
+        {
+          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
+          "url": "https://www.zhihu.com/question/2036152296388523178",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     },
