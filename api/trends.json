@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T14:20:10.786056+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-07-27T18:35:01.264915+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "乌军袭击商船引发爆炸，伊朗发表声明谴责",
@@ -96,6 +96,28 @@
           "time_info": "[01时01分 ~ 06时53分]"
         },
         {
+          "title": "知情人士：美军中东最高指挥官认为空袭伊朗难再见效",
+          "url": "https://news.ifeng.com/c/8v6QdWrNJZ0",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
+        },
+        {
+          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
+          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
+        },
+        {
           "title": "欧洲天然气价格一度跌8% 受美国暂停对伊朗空袭影响",
           "url": "https://wallstreetcn.com/livenews/3139892",
           "source": "华尔街见闻-快讯",
@@ -170,6 +192,18 @@
           "time_info": "[01时01分 ~ 04时06分]"
         },
         {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 18时35分]"
+        },
+        {
           "title": "伊朗最高领袖：保卫黎巴嫩是伊“战略使命”",
           "url": "https://flash.jin10.com/detail/20260727063442708800",
           "source": "金十数据",
@@ -180,6 +214,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时54分]"
+        },
+        {
+          "title": "乌克兰此时打击伊朗商船，图啥？",
+          "url": "https://news.ifeng.com/c/8v5Ckfob4r6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 18时35分]"
         },
         {
           "title": "伊朗高层警告乌克兰对伊行动必遭回击",
@@ -266,6 +311,18 @@
           "time_info": "[05时53分 ~ 06时53分]"
         },
         {
+          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 18时35分]"
+        },
+        {
           "title": "伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展",
           "url": "https://wallstreetcn.com/livenews/3139835",
           "source": "华尔街见闻-快讯",
@@ -312,28 +369,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 05时53分]"
-        },
-        {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
-        },
-        {
-          "title": "乌克兰此时打击伊朗商船，图啥？",
-          "url": "https://news.ifeng.com/c/8v5Ckfob4r6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "伊朗革命卫队胡齐斯坦省指挥官：美军在中东地区的基地有超过288个目标被摧毁。",
@@ -432,17 +467,6 @@
           "time_info": "[06时53分 ~ 07时54分]"
         },
         {
-          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
-        },
-        {
           "title": "伊朗商船在里海遭袭 伊外长：绝不能不予以回应",
           "url": "https://wallstreetcn.com/livenews/3139870",
           "source": "华尔街见闻-快讯",
@@ -509,7 +533,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -542,7 +566,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -580,6 +604,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "伊朗谴责保加利亚配合美军对伊行动",
+          "url": "https://wallstreetcn.com/livenews/3140209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "伊朗暂停对美国报复性行动",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%8A%A5%E5%A4%8D%E6%80%A7%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
@@ -605,7 +640,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
@@ -642,6 +677,18 @@
           "time_info": "[01时01分 ~ 07时54分]"
         },
         {
+          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
+          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 18时35分]"
+        },
+        {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
           "url": "https://www.cls.cn/detail/2437057",
           "source": "财联社热门",
@@ -655,17 +702,6 @@
           "time_info": "[01时01分 ~ 10时07分]"
         },
         {
-          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
-          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 14时20分]"
-        },
-        {
           "title": "美媒曝光特朗普暂停空袭伊朗原因",
           "url": "https://www.douyin.com/hot/2585679",
           "source": "抖音",
@@ -677,6 +713,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时04分 ~ 10时07分]"
+        },
+        {
+          "title": "3个选项，特朗普举棋未定",
+          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -834,6 +881,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-27）",
+          "url": "https://flash.jin10.com/detail/20260727180757012800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
           "url": "https://flash.jin10.com/detail/20260726230940914800",
           "source": "金十数据",
@@ -851,7 +909,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
@@ -859,7 +917,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -867,11 +925,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 18时35分]"
         },
         {
           "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
@@ -941,13 +1000,35 @@
           "time_info": "[14时19分 ~ 14时20分]"
         },
         {
+          "title": "OpenAI宣布在爱尔兰设立新的欧盟总部，并新增250个工作岗位。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3140222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "OpenAI宣布在爱尔兰设立新的欧盟总部，并新增250个职位。",
+          "url": "https://flash.jin10.com/detail/20260727181326862800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
           "url": "https://wallstreetcn.com/livenews/3140016",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
@@ -955,7 +1036,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -1006,13 +1087,35 @@
           "time_info": "[07时54分 ~ 10时07分]"
         },
         {
+          "title": "美银警告：美股最弱窗口即将到来，黄金美元有望迎来机会",
+          "url": "https://flash.jin10.com/detail/20260727181057363800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "Rocket Lab(RKLB.O)美股盘前涨4.5%，因公司获得与美国太空部队价值2.66亿美元的导弹防御合同。",
+          "url": "https://flash.jin10.com/detail/20260727180540082800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "三重技术信号施压美股，夏季调整警报拉响？",
           "url": "https://flash.jin10.com/detail/20260727131107062800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
