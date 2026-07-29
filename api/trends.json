@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T16:25:01.217947+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-07-29T19:17:11.735978+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 59,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -55,6 +55,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时01分 ~ 06时10分]"
+        },
+        {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 19时17分]"
+        },
+        {
+          "title": "伊媒称美空袭伊朗与伊拉克边境地区",
+          "url": "https://flash.jin10.com/detail/20260729184820428800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "伊朗导弹甩开美军多枚拦截弹画面",
@@ -127,6 +149,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "英媒：美国轰炸难让伊朗屈服",
+          "url": "https://wallstreetcn.com/livenews/3141646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
           "url": "https://flash.jin10.com/detail/20260729011225631800",
           "source": "金十数据",
@@ -138,15 +171,15 @@
           "time_info": "01时37分"
         },
         {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 19时17分]"
         },
         {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
@@ -184,17 +217,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时53分 ~ 09时51分]"
-        },
-        {
-          "title": "对伊朗军事行动以来，美以领导人首次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 16时25分]"
         },
         {
           "title": "美国官员：伊朗在霍尔木兹海的要求过于苛刻，阿曼、美国及国际社会对此正当拒绝。",
@@ -276,6 +298,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 03时11分]"
+        },
+        {
+          "title": "“敌方发射物”击中伊朗西阿塞拜疆省。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3141641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "伊朗副外长：目前我们的对话仅与阿曼就霍尔木兹海峡问题进行。我们与美国或任何调解方均无任何谈判。",
@@ -454,6 +487,17 @@
           "time_info": "13时14分"
         },
         {
+          "title": "伊朗要求霍尔木兹海峡通行船只须经伊朗水域",
+          "url": "https://wallstreetcn.com/livenews/3141630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "据约旦国家新闻社：约旦表示已击落五枚来自伊朗的导弹。",
           "url": "https://flash.jin10.com/detail/20260729123517624800",
           "source": "金十数据",
@@ -487,6 +531,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "伊朗西阿塞拜疆危机管理局局长：一枚投射物击中一处没有建筑和居民的区域，未造成人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260729183223353800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "伊朗副外长：霍尔木兹海峡是伊朗国家安全的一部分，也是伊朗的一项国防能力。世界应当知道，伊朗已经提升了自身的防御能力。",
           "url": "https://flash.jin10.com/detail/20260729010036296800",
           "source": "金十数据",
@@ -496,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：当地危机管理部门称，一枚敌方投射物击中了伊朗西阿塞拜疆省。",
+          "url": "https://flash.jin10.com/detail/20260729183039424800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "伊朗消息人士否认沙特境内目标受袭与伊朗有关",
@@ -540,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "英媒：美国轰炸难让伊朗屈服",
+          "url": "https://flash.jin10.com/detail/20260729182632075800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "伊朗驻华大使称伊朗未介入曼德海峡问题，呼吁从源头解决也门危机",
@@ -600,7 +677,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -703,6 +780,18 @@
           "time_info": "09时51分"
         },
         {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时17分]"
+        },
+        {
           "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
           "url": "https://news.ifeng.com/c/8v99XqcoCB0",
           "source": "凤凰网",
@@ -726,15 +815,26 @@
           "time_info": "[07时53分 ~ 07时54分]"
         },
         {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时24分 ~ 16时25分]"
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
         },
         {
           "title": "国际油价急涨5%！特朗普按下冲突“暂停键”后 伊朗首袭驻中东美军",
@@ -815,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "特朗普：美墨加协定续不续签“无所谓”",
+          "url": "https://wallstreetcn.com/livenews/3141634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "甩锅给拜登，特朗普否认美暂停打击伊朗因弹药库存告急",
@@ -952,7 +1063,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -980,8 +1091,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 16时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 19时17分]"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -989,11 +1100,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时53分 ~ 16时25分]"
+          "appearance_count": 8,
+          "time_info": "[07时53分 ~ 19时17分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -1059,6 +1171,17 @@
           "time_info": "[07时53分 ~ 07时54分]"
         },
         {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
           "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.35%，道琼斯指数期货跌0.24%。",
           "url": "https://wallstreetcn.com/livenews/3141455",
           "source": "华尔街见闻-快讯",
@@ -1076,7 +1199,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -1087,7 +1210,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -1138,6 +1261,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时10分]"
+        },
+        {
+          "title": "格芯公司GlobalFoundries美股盘前一度涨超16%。美国政府此前宣布，该公司将获得高达3亿美元的资助。",
+          "url": "https://flash.jin10.com/detail/20260729184506586800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "美股反弹，标普500指数涨0.3%，纳指微跌0.08%，道指现涨超1%。SpaceX(SPCX.O)现涨3.4%，苹果(AAPL.O)涨0.7%，英伟达(NVDA.O)涨0.1%。",
