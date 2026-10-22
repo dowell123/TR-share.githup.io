@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T14:57:37.415490+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-10-22T20:41:11.138519+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "泽连斯基和特朗普，彻底决裂了？",
@@ -30,6 +30,50 @@
           "time_info": "09时08分"
         },
         {
+          "title": "默茨：对华政策，我们跟特朗普不一样",
+          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 20时41分]"
+        },
+        {
+          "title": "特朗普中期选举面临哪些困境",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E9%9D%A2%E4%B8%B4%E5%93%AA%E4%BA%9B%E5%9B%B0%E5%A2%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
+          "title": "特朗普称将砸逾 4 亿美元助共和党选举，或成美国历史上烧钱最多的中期选举，共和党胜算有多大？",
+          "url": "https://www.zhihu.com/question/2096563694825992624",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
+          "title": "特朗普为何给内塔尼亚胡送“大礼”",
+          "url": "https://www.toutiao.com/trending/7699447449483480595/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
           "title": "美国总统特朗普：距离解决俄乌冲突越来越近了。",
           "url": "https://flash.jin10.com/detail/20261022031708920800",
           "source": "金十数据",
@@ -47,7 +91,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -83,17 +127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
-        },
-        {
-          "title": "默茨：对华政策，我们跟特朗普不一样",
-          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
         },
         {
           "title": "加拿大总理卡尼：周三与美国总统特朗普进行了相当长时间的交谈。",
@@ -146,7 +179,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -187,7 +220,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "消息称美以已制定新一轮对伊朗打击计划",
@@ -212,6 +245,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时56分 ~ 14时57分]"
+        },
+        {
+          "title": "军事威慑升级！数十架以军战机曾逼近伊朗边境，美国扩大制裁、据称拟撤离部分中东使馆人员",
+          "url": "https://wallstreetcn.com/articles/3784151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队发言人：我们准备推出有史以来威力最大炸弹——“炸弹之父”",
+          "url": "https://www.cls.cn/detail/2512367",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "美怀疑以军诱伊朗开火 数十架以军战机曾逼近伊朗边境",
@@ -245,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "美国中央司令部：一架EA-18G“咆哮者”电子战飞机从美国海军“华盛顿”号航空母舰（CVN-73）的飞行甲板起飞。该航母正在执行指定任务，包括落实美国针对伊朗港口及沿海地区实施的“钢铁之墙”封锁行动。",
+          "url": "https://flash.jin10.com/detail/20261022200030367800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "数十架以军战机曾逼近伊朗边境",
@@ -297,9 +363,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "伊朗声称对船只遇袭事件负责，行为模式出现显著变化",
+          "url": "https://flash.jin10.com/detail/20261022194927419800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "伊朗最高领袖会见议会议长卡利巴夫",
@@ -327,7 +404,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
@@ -366,6 +443,17 @@
           "time_info": "[03时49分 ~ 06时56分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-10-22）",
+          "url": "https://flash.jin10.com/detail/20261022200758042800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "周四亚太盘初，纳斯达克100股指期货跌0.3%，标普股指期货跌0.1%。 科技股中，特斯拉美股盘后跌幅扩大至2.8%，该公司下调资本开支目标。IBM跌2.5%，Nebius Group NV跌1.4%，英特尔、博通、AMD、SK海力士ADR至多跌0.9%，西部数据涨0.3%，Meta涨2.9%。",
           "url": "https://wallstreetcn.com/livenews/3183001",
           "source": "华尔街见闻-快讯",
@@ -375,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "Meta美股盘前跌幅扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/3183706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "纳指期货跌幅扩大至超过0.5%，标普股指期货跌0.3%，道指期货跌0.2%。 当前（美股盘后），IBM跌超3.4%，特斯拉跌超2.9%，NBIS跌超2.4%，英特尔跌1.6%，闪迪跌1.5%，SK海力士ADR跌1.4%，AMD、美光、希捷科技至少跌约1%，Pinterest涨0.1%，奈飞涨0.2%，Meta涨2%。",
@@ -388,13 +487,24 @@
           "time_info": "09时08分"
         },
         {
+          "title": "宝洁第一财季核心每股收益2.00美元，上年同期1.99美元，预估1.89美元。 第一财季销售净额232.8亿美元，同比增长4%，预估228.2亿美元。 第一财季内生性收入增长4％，预估增长1.96％。 宝洁仍然预计全年内生性收入增长1％至3％，市场预估增长2.19％。 宝洁仍然预计全年核心每股收益增幅0％至3％。 宝洁仍然预计全年核心每股收益6.89美元至7.11美元，市场预估6.98美元。 宝洁美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3183690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美股股指期货持续走低，纳指期货跌1.5%，标普500指数期货跌0.80%，道指期货跌0.40%。",
           "url": "https://wallstreetcn.com/livenews/3183197",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -408,6 +518,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "揭秘DeepSeek开源推理框架",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeek%E5%BC%80%E6%BA%90%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "腾讯姚顺雨想把DeepSeek卷到加班",
+          "url": "https://www.toutiao.com/trending/7697961005829668883/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时49分 ~ 09时08分]"
+        },
+        {
+          "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
+          "url": "https://www.zhihu.com/question/2096603053763846842",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
+          "title": "美国政府指示各机构停用 DeepSeek ，外交部表示反对将科技经贸问题政治化，美国此举有何意图？",
+          "url": "https://www.zhihu.com/question/2095898196539073291",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
+          "title": "周鸿祎谈美国“封杀”DeepSeek",
+          "url": "https://www.toutiao.com/trending/7699074388208913958/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     },
@@ -469,47 +642,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "揭秘DeepSeek开源推理框架",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeek%E5%BC%80%E6%BA%90%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "腾讯姚顺雨想把DeepSeek卷到加班",
-          "url": "https://www.toutiao.com/trending/7697961005829668883/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 09时08分]"
-        },
-        {
-          "title": "周鸿祎谈美国“封杀”DeepSeek",
-          "url": "https://www.toutiao.com/trending/7699074388208913958/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
         }
       ]
     },
