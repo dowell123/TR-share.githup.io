@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T03:41:11.975180+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-10-24T07:25:53.377647+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 07时25分]"
         },
         {
           "title": "美国总统特朗普：我们可能对伊朗采取另一次行动。",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -36,9 +36,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "美驻土耳其大使称周末可能打击伊朗 特朗普称对此不知情",
+          "url": "https://flash.jin10.com/detail/20261024055620089800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？",
@@ -48,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 07时25分]"
         },
         {
           "title": "特朗普怒喷詹姆斯不尊重美国",
@@ -59,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 07时25分]"
         },
         {
           "title": "特朗普：或与马斯克沟通乌克兰使用“星链”受限问题",
@@ -69,9 +80,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "美驻土耳其大使称周末可能打击伊朗，特朗普称对此不知情",
+          "url": "https://wallstreetcn.com/livenews/3185058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "古巴外长驳斥特朗普“顺道解决古巴”言论",
+          "url": "https://flash.jin10.com/detail/20261024053430135800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "古巴外长驳斥特朗普“顺道解决古巴”言论",
+          "url": "https://wallstreetcn.com/livenews/3185051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "英国政府：（关于马岛）美国总统特朗普与英国首相伯纳姆的通话中提及阿根廷胁迫措施对英国和美国的经济后果。",
@@ -80,7 +124,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -91,7 +135,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -102,7 +146,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -113,7 +157,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -124,9 +168,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
+          "url": "https://www.zhihu.com/question/2096894678494884280",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "英国首相伯纳姆与美国总统特朗普会谈时强调，乌克兰应当能够完整使用星链（Starlink）。 特朗普与伯纳姆一致认可，批准Jackdaw（寒鸦气田）项目将为英国带来利好。",
@@ -135,9 +190,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "特朗普政府取消部分加拿大商品50%关税 另对其他产品加税",
+          "url": "https://flash.jin10.com/detail/20261024045111577800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "美国总统特朗普：（关于阿拉斯加州诉讼）是我下令这么做的。",
@@ -146,7 +212,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -157,16 +223,134 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 5,
+      "keyword_group": "伊朗",
+      "match_count": 8,
       "titles": [
+        {
+          "title": "伊朗总统办：港口遭封锁后物资进口量仅下降25%",
+          "url": "https://flash.jin10.com/detail/20261024031124408800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "巴克莱：伊朗冲突恐难迅速平息，这使得本已紧张的石油现货市场更趋紧绷。",
+          "url": "https://flash.jin10.com/detail/20261024060656400800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "伊朗革命卫队称，两艘油轮在试图经由霍尔木兹海峡以南一条未经授权的航线通行时触雷。",
+          "url": "https://wallstreetcn.com/livenews/3185004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
+          "url": "https://original.ifeng.com/c/8xSRQpqdPtX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 07时25分]"
+        },
+        {
+          "title": "美国财长贝森特：尽管伊朗试图扰乱能源运输，但波斯湾的石油出口正强势反弹，已超过冲突前水平。信号很明确：伊朗的威胁未能阻止能源流向全球市场。",
+          "url": "https://flash.jin10.com/detail/20261024052147593800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "伊朗总统下周赴莫斯科出席天然气出口国论坛峰会并与普京会晤",
+          "url": "https://flash.jin10.com/detail/20261024020854300800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "伊朗总统下周将在莫斯科会见俄罗斯总统普京。（伊朗媒体INSA）",
+          "url": "https://wallstreetcn.com/livenews/3184979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗代理石油部长将陪同伊朗总统佩泽希齐扬出席10月27日在莫斯科举行的第八届天然气出口国峰会。",
+          "url": "https://flash.jin10.com/detail/20261024041839115800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
+          "url": "https://wallstreetcn.com/articles/3784246",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 07时25分]"
+        },
+        {
+          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784249",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 07时25分]"
+        },
         {
           "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
           "url": "https://wallstreetcn.com/articles/3784189",
@@ -179,26 +363,27 @@
           "time_info": "[03时40分 ~ 03时41分]"
         },
         {
-          "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
-          "url": "https://wallstreetcn.com/articles/3784246",
+          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+          "url": "https://wallstreetcn.com/articles/3784279",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 03时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
-          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3784249",
-          "source": "华尔街见闻",
+          "title": "加拿大专家驳斥中国借道买美债阴谋论",
+          "url": "https://www.toutiao.com/trending/7699793212264874506/",
+          "source": "今日头条",
           "ranks": [
-            5
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 07时25分]"
         },
         {
           "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，布油涨3%",
@@ -212,93 +397,33 @@
           "time_info": "[03时40分 ~ 03时41分]"
         },
         {
-          "title": "加拿大专家驳斥中国借道买美债阴谋论",
-          "url": "https://www.toutiao.com/trending/7699793212264874506/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 03时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "伊朗总统办：港口遭封锁后物资进口量仅下降25%",
-          "url": "https://flash.jin10.com/detail/20261024031124408800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "伊朗革命卫队称，两艘油轮在试图经由霍尔木兹海峡以南一条未经授权的航线通行时触雷。",
-          "url": "https://wallstreetcn.com/livenews/3185004",
+          "title": "10年期美债收益率周五反弹超4个基点，使得本周累计跌幅收窄至不到8个基点",
+          "url": "https://wallstreetcn.com/livenews/3185056",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
-          "url": "https://original.ifeng.com/c/8xSRQpqdPtX",
-          "source": "凤凰网",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 03时41分]"
-        },
-        {
-          "title": "伊朗总统下周赴莫斯科出席天然气出口国论坛峰会并与普京会晤",
-          "url": "https://flash.jin10.com/detail/20261024020854300800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "伊朗总统下周将在莫斯科会见俄罗斯总统普京。（伊朗媒体INSA）",
-          "url": "https://wallstreetcn.com/livenews/3184979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时41分"
+          "time_info": "07时25分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
           "url": "https://wallstreetcn.com/articles/3784256",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 07时25分]"
         },
         {
           "title": "OpenAI：与众多云伙伴合作。",
@@ -307,7 +432,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -318,15 +443,26 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "美国得州就用户欺骗与儿童安全问题起诉OpenAI及其CEO",
+          "url": "https://wallstreetcn.com/livenews/3185033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
@@ -347,8 +483,36 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 07时25分]"
+        },
+        {
+          "title": "DeepSeek又要拿到一笔巨额融资了",
+          "url": "https://www.toutiao.com/trending/7699822969706515994/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价周五跌0.7%失守4000美元关口，纽约白银期货本周跌超6%",
+          "url": "https://wallstreetcn.com/livenews/3185050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     }
