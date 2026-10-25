@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T03:47:51.001302+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-10-26T06:13:11.299290+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 39,
       "titles": [
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "奥巴马中期选举首秀抨击特朗普",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "美国总统特朗普：我认为俄乌局势将出现新变化。",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "据伊通社（IRNA）：特朗普再度发表夸大其词的言论，声称已消除伊朗的核威胁，但美国尚无任何情报报告证实这些说法。",
+          "url": "https://flash.jin10.com/detail/20261026052824374800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国总统特朗普：我掌握着两套不同的有关伊朗的情报。",
@@ -70,7 +81,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -86,24 +97,24 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国总统特朗普：你们很快就会看到伊朗冲突以某种方式结束。 中期选举结束后不久将发放5000美元分红。",
+          "url": "https://wallstreetcn.com/livenews/3185262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "美国总统特朗普：不担心伊朗会在数月内重建铀浓缩能力。",
           "url": "https://flash.jin10.com/detail/20261026033442871800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "特朗普在美国密歇根拉票，自夸振兴汽车业",
-          "url": "https://wallstreetcn.com/livenews/3185245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -115,8 +126,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
@@ -126,8 +137,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
+        },
+        {
+          "title": "特朗普在美国密歇根拉票，自夸振兴汽车业",
+          "url": "https://wallstreetcn.com/livenews/3185245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时47分]"
+          "time_info": "[03时47分 ~ 06时13分]"
         },
         {
           "title": "奥巴马怒喷特朗普所为何事",
@@ -135,11 +158,24 @@
           "source": "今日头条",
           "ranks": [
             10,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
+        },
+        {
+          "title": "奥巴马批特朗普：赤裸裸地借机敛财",
+          "url": "https://www.toutiao.com/trending/7699813230826455076/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 06时13分]"
         },
         {
           "title": "美国众议院议长迈克·约翰逊：周六与特朗普讨论了俄罗斯问题。 周末与鲁比奥就俄罗斯问题进行了交谈。 鲁比奥表示美国将进行三方谈判。",
@@ -154,6 +190,18 @@
           "time_info": "[00时57分 ~ 03时47分]"
         },
         {
+          "title": "特朗普：美俄乌三方会谈“很快”就会举行",
+          "url": "https://wallstreetcn.com/livenews/3185238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 06时13分]"
+        },
+        {
           "title": "伊朗回应特朗普“今晚不会攻击”：心理战",
           "url": "https://flash.jin10.com/detail/20261026001416207800",
           "source": "金十数据",
@@ -165,15 +213,70 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国总统特朗普：5000美元红利将在中期选举后不久发放。",
+          "url": "https://flash.jin10.com/detail/20261026045757543800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "金十提示：特朗普在密歇根州的集会上发表讲话。",
           "url": "https://flash.jin10.com/detail/20261026033030828800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "特朗普：不后悔打击伊朗",
+          "url": "https://flash.jin10.com/detail/20261026045200402800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美国总统特朗普不担心伊朗会在数月内重建铀浓缩能力。 自称在以色列支持率达99%。",
+          "url": "https://wallstreetcn.com/livenews/3185255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美国总统特朗普：你们将看到伊朗冲突“很快以某种方式结束”。",
+          "url": "https://flash.jin10.com/detail/20261026045128291800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "特朗普：即将与加拿大达成协议",
+          "url": "https://wallstreetcn.com/livenews/3185254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国总统特朗普：我们今天不会打击伊朗。",
@@ -185,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "据法庭听证会消息，美国上诉法院在审理特朗普政府针对加利福尼亚州提起的诉讼时，似乎对其主张持怀疑态度。特朗普政府指控加州选民名册中登记有非美国公民。",
+          "url": "https://flash.jin10.com/detail/20261026044921976800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国总统特朗普：我们将很快与乌克兰和俄罗斯举行三方会谈。",
@@ -204,9 +318,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "伊朗讽刺鲁比奥忘了特朗普自称“海盗”",
+          "url": "https://flash.jin10.com/detail/20261026044516119800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国总统特朗普：（关于委内瑞拉反对派领导人马查多回国）对此并不知情，希望她安全。",
@@ -220,15 +345,48 @@
           "time_info": "00时57分"
         },
         {
-          "title": "特朗普：美俄乌三方会谈“很快”就会举行",
-          "url": "https://wallstreetcn.com/livenews/3185238",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：加拿大此刻愿意给我们任何东西。",
+          "url": "https://flash.jin10.com/detail/20261026043918038800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时47分"
+          "time_info": "06时13分"
+        },
+        {
+          "title": "特朗普在集会上表示：这是我在大约12天内举行的第26场集会。",
+          "url": "https://flash.jin10.com/detail/20261026042317578800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美国总统特朗普：我没拿到诺贝尔奖，所以我不想要任何挪威人。挪威烂透了！",
+          "url": "https://flash.jin10.com/detail/20261026042030863800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "特朗普抨击索马里：全球最糟糕的国家",
+          "url": "https://flash.jin10.com/detail/20261026041258309800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国总统特朗普：（谈及马克龙）我第一次见到他时就说，你正在毁掉法国。",
@@ -264,24 +422,24 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国总统特朗普：现在说谁将参加2028年竞选还为时过早。",
+          "url": "https://flash.jin10.com/detail/20261026034946098800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "据以色列i24电视台：一名美国官员表示，特朗普准备调整对伊朗的政策方向，袭击伊朗似乎已不再是“会不会发生”的问题，而是“何时发生”的问题。",
           "url": "https://flash.jin10.com/detail/20261026021655755800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "奥巴马批特朗普：赤裸裸地借机敛财",
-          "url": "https://www.toutiao.com/trending/7699813230826455076/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         }
@@ -289,7 +447,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美航母重填弹药，或再袭伊朗",
@@ -299,8 +457,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "据以色列第14频道：以色列总理内塔尼亚胡表示，我们将再次打击伊朗。",
@@ -309,7 +467,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -318,11 +476,24 @@
           "url": "https://wallstreetcn.com/livenews/3185246",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 06时13分]"
+        },
+        {
+          "title": "伊朗总统：1月份全国性的反政府抗议主要由社会问题引发。 如果民众信任我们，知道我们想要帮助他们、解决他们的问题，他们肯定会与我们合作。",
+          "url": "https://wallstreetcn.com/livenews/3185243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 06时13分]"
         },
         {
           "title": "报道：伊朗并未通过巴基斯坦向美国提交新方案",
@@ -343,20 +514,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
         {
-          "title": "伊朗总统：1月份全国性的反政府抗议主要由社会问题引发。 如果民众信任我们，知道我们想要帮助他们、解决他们的问题，他们肯定会与我们合作。",
-          "url": "https://wallstreetcn.com/livenews/3185243",
+          "title": "伊朗革命卫队发言人发文嘲讽美国中央司令部司令库珀上将对霍尔木兹海峡的走访，配图是一名美军军人在直升机上望向一艘起火油轮的画面。",
+          "url": "https://wallstreetcn.com/livenews/3185253",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时47分"
+          "time_info": "06时13分"
         },
         {
           "title": "收到“伊朗策划袭击”情报后：美国对中东13国更新旅行警告，多国使馆限制运行",
@@ -376,7 +547,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -392,13 +563,35 @@
           "time_info": "00时57分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：有关我与以军总参谋长在伊朗问题上存在分歧的报道纯属假新闻。",
+          "url": "https://flash.jin10.com/detail/20261026035826839800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗现在就像一只受伤的蝎子，可能会在最后关头再蜇我们一口，对我们发动袭击。",
+          "url": "https://flash.jin10.com/detail/20261026035617330800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "伊朗革命卫队：时间证明了我们已故殉难领袖话语的真实性。",
           "url": "https://flash.jin10.com/detail/20261026022336613800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -421,26 +614,28 @@
       "titles": [
         {
           "title": "人造黄金会不会击穿金价",
-          "url": "https://www.toutiao.com/trending/7699776708773249067/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时47分]"
-        },
-        {
-          "title": "人造黄金会不会击穿金价",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E9%80%A0%E9%BB%84%E9%87%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BB%E7%A9%BF%E9%87%91%E4%BB%B7",
           "source": "百度热搜",
           "ranks": [
             6,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
+        },
+        {
+          "title": "人造黄金会不会击穿金价",
+          "url": "https://www.toutiao.com/trending/7699776708773249067/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "三大因素致国际金价走低",
@@ -460,6 +655,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "DeepSeek到底怎么得罪了美国",
+          "url": "https://www.toutiao.com/trending/7700471897347067435/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
+        },
+        {
           "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
           "url": "https://www.cls.cn/detail/2514315",
           "source": "财联社热门",
@@ -467,20 +675,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时47分]"
-        },
-        {
-          "title": "DeepSeek到底怎么得罪了美国",
-          "url": "https://www.toutiao.com/trending/7700471897347067435/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         }
       ]
     },
@@ -498,6 +694,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一亚市盘初美股期货走高，标普500指数期货涨0.4%，纳斯达克100指数期货涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3185261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     }
