@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T06:13:11.299290+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-10-26T08:55:08.112459+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -31,6 +31,28 @@
           "time_info": "[00时57分 ~ 06时13分]"
         },
         {
+          "title": "特朗普：美俄乌三方会谈“很快”就会举行",
+          "url": "https://news.ifeng.com/c/8xWloHz7H6W",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "巴西大选突生变数：选情胶着，特朗普密切关注",
+          "url": "https://news.ifeng.com/c/8xWsLqxpE1P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
           "title": "美国总统特朗普：我认为俄乌局势将出现新变化。",
           "url": "https://flash.jin10.com/detail/20261026002837599800",
           "source": "金十数据",
@@ -48,7 +70,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -62,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "奥巴马罕见火力全开！痛批特朗普对伊战争、推高物价",
+          "url": "https://flash.jin10.com/detail/20261026082215661800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美国总统特朗普：我们掌握关于伊朗的非常先进的情报。",
@@ -103,7 +136,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -219,7 +252,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -241,7 +274,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -252,7 +285,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -263,7 +296,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -274,7 +307,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -296,7 +329,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -329,7 +362,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -351,7 +384,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -362,7 +395,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -373,9 +406,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "马查多结束近11个月流亡返国，特朗普支持的委内瑞拉过渡安排面临变数",
+          "url": "https://flash.jin10.com/detail/20261026080044485800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "特朗普抨击索马里：全球最糟糕的国家",
@@ -384,9 +428,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "特朗普宣布，将亚利桑那州的奇里卡瓦国家公园设立为美国最新的旗舰级国家公园。",
+          "url": "https://flash.jin10.com/detail/20261026080025725800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美国总统特朗普：（谈及马克龙）我第一次见到他时就说，你正在毁掉法国。",
@@ -428,7 +483,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -442,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "美国总统特朗普：利比亚不能继续成为非法移民的通道，这种情况必须立即结束。",
+          "url": "https://flash.jin10.com/detail/20261026072827618800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
@@ -457,8 +523,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
         },
         {
           "title": "据以色列第14频道：以色列总理内塔尼亚胡表示，我们将再次打击伊朗。",
@@ -482,6 +548,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时47分 ~ 06时13分]"
+        },
+        {
+          "title": "收到“伊朗策划袭击”情报后：美国对中东13国更新旅行警告，多国使馆限制运行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34328105",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 08时55分]"
         },
         {
           "title": "伊朗总统：1月份全国性的反政府抗议主要由社会问题引发。 如果民众信任我们，知道我们想要帮助他们、解决他们的问题，他们肯定会与我们合作。",
@@ -525,20 +603,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "收到“伊朗策划袭击”情报后：美国对中东13国更新旅行警告，多国使馆限制运行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34328105",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "06时13分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社公布过去24小时十大被辟谣消息",
@@ -569,7 +636,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -580,7 +647,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -619,11 +686,12 @@
           "ranks": [
             6,
             9,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
         },
         {
           "title": "人造黄金会不会击穿金价",
@@ -631,22 +699,24 @@
           "source": "今日头条",
           "ranks": [
             7,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
         },
         {
           "title": "三大因素致国际金价走低",
           "url": "https://www.douyin.com/hot/2712115",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 08时55分]"
         }
       ]
     },
@@ -661,11 +731,12 @@
           "ranks": [
             17,
             16,
-            7
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
         },
         {
           "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
@@ -675,8 +746,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
         }
       ]
     },
@@ -708,7 +779,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
