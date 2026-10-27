@@ -1,11 +1,182 @@
 {
-  "generated_at": "2026-10-27T09:49:25.826036+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-10-27T15:07:24.316412+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "市场消息：伊朗总统抵达俄罗斯莫斯科。",
+          "url": "https://flash.jin10.com/detail/20261027022208382800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：西亚安全必须依靠自身力量",
+          "url": "https://wallstreetcn.com/livenews/3186426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "据伊媒报道，伊朗议会就近期物价上涨问题质询经济部长，议员们对其答复表示不满。最终，议会认为经济部长的答复未能令人信服，共有120名议员投下反对票。",
+          "url": "https://flash.jin10.com/detail/20261027145418247800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "伊朗最高领袖：伊朗进一步强大的关键在于，其精英有能力拓展科学知识的边界，并为该国科学挑战找到解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3186424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：各方强调，以色列必须撤出黎巴嫩南部、叙利亚南部、加沙地带和约旦河西岸，并停止侵略行为。",
+          "url": "https://flash.jin10.com/detail/20261027020725096800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：各方已达成共识，西亚安全必须依靠地区国家自身力量，并防止任何外部干预。",
+          "url": "https://flash.jin10.com/detail/20261027020713190800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：地区合作早就应该启动，土耳其、巴基斯坦和沙特阿拉伯高级官员的到访表明，美国的威胁对世界各国并未产生太大影响。",
+          "url": "https://flash.jin10.com/detail/20261027020654014800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫披露与最高领袖会晤细节",
+          "url": "https://flash.jin10.com/detail/20261027144956544800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "美以筹划新打击的敏感时刻，沙特、土耳其、巴基斯坦三国官员将访问伊朗",
+          "url": "https://wallstreetcn.com/articles/3784454",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "伊朗外交部：实现地区可持续安全需依靠各国信任与合作",
+          "url": "https://wallstreetcn.com/livenews/3186411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "以媒曝沙特寻求与胡塞达成停火 背后涉及伊朗斡旋",
+          "url": "https://flash.jin10.com/detail/20261027014726329800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗确认拖欠基本商品进口商40.7亿欧元外汇款项",
+          "url": "https://flash.jin10.com/detail/20261027143936437800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "伊朗总统：德黑兰与莫斯科的关系正在不断拓展，将在访问俄罗斯期间与俄罗斯总统普京讨论加强双边合作。",
+          "url": "https://wallstreetcn.com/livenews/3186401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗总统会见沙土巴三国高级官员",
+          "url": "https://wallstreetcn.com/livenews/3186492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "伊朗与沙特、土耳其、巴基斯坦同意未来继续举行会谈",
+          "url": "https://flash.jin10.com/detail/20261027011854844800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI发布GPT-6.1 Terra。 GPT-6.1 Terra现已开始推出，面向所有Plus、Pro、Enterprise和Edu用户开放，可在ChatGPT Work和Codex中使用。",
@@ -17,6 +188,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场",
+          "url": "https://www.cls.cn/detail/2515893",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 15时07分]"
         },
         {
           "title": "OpenAI推出GPT-6.1 Terra 电脑操作速度提升逾3倍 API价格降低50%",
@@ -36,7 +220,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -52,27 +236,16 @@
           "time_info": "02时41分"
         },
         {
-          "title": "卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场",
-          "url": "https://www.cls.cn/detail/2515893",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 09时49分]"
-        },
-        {
           "title": "如何看待 ETH（指数时间猜想）猜想被 OpenAI 证伪？",
           "url": "https://www.zhihu.com/question/2098291700204622696",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 15时07分]"
         },
         {
           "title": "如何评价 OpenAI 发布的 GPT-6.1 Terra？",
@@ -81,9 +254,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
+          "url": "https://www.zhihu.com/question/2098331248469062137",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "OpenAI发布ChatGPT Work在100个国家的活动数据。",
@@ -143,146 +327,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "市场消息：伊朗总统抵达俄罗斯莫斯科。",
-          "url": "https://flash.jin10.com/detail/20261027022208382800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：西亚安全必须依靠自身力量",
-          "url": "https://wallstreetcn.com/livenews/3186426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗最高领袖：伊朗进一步强大的关键在于，其精英有能力拓展科学知识的边界，并为该国科学挑战找到解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3186424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：各方强调，以色列必须撤出黎巴嫩南部、叙利亚南部、加沙地带和约旦河西岸，并停止侵略行为。",
-          "url": "https://flash.jin10.com/detail/20261027020725096800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：各方已达成共识，西亚安全必须依靠地区国家自身力量，并防止任何外部干预。",
-          "url": "https://flash.jin10.com/detail/20261027020713190800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：地区合作早就应该启动，土耳其、巴基斯坦和沙特阿拉伯高级官员的到访表明，美国的威胁对世界各国并未产生太大影响。",
-          "url": "https://flash.jin10.com/detail/20261027020654014800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "美以筹划新打击的敏感时刻，沙特、土耳其、巴基斯坦三国官员将访问伊朗",
-          "url": "https://wallstreetcn.com/articles/3784454",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "伊朗外交部：实现地区可持续安全需依靠各国信任与合作",
-          "url": "https://wallstreetcn.com/livenews/3186411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "以媒曝沙特寻求与胡塞达成停火 背后涉及伊朗斡旋",
-          "url": "https://flash.jin10.com/detail/20261027014726329800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗总统：德黑兰与莫斯科的关系正在不断拓展，将在访问俄罗斯期间与俄罗斯总统普京讨论加强双边合作。",
-          "url": "https://wallstreetcn.com/livenews/3186401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗总统会见沙土巴三国高级官员",
-          "url": "https://wallstreetcn.com/livenews/3186492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "伊朗与沙特、土耳其、巴基斯坦同意未来继续举行会谈",
-          "url": "https://flash.jin10.com/detail/20261027011854844800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普狂喷：挪威是“粪坑国家”",
@@ -330,13 +376,24 @@
           "time_info": "02时41分"
         },
         {
+          "title": "奥巴马称白宫修得像连锁餐厅，特朗普很不爽",
+          "url": "https://news.ifeng.com/c/8xYriizED1y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "巴西副总统驳斥特朗普言论",
           "url": "https://www.toutiao.com/trending/7701071685427970587/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -369,7 +426,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -443,7 +500,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         }
@@ -518,11 +575,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 09时49分]"
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 15时07分]"
         },
         {
           "title": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
@@ -534,6 +592,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌 CEO 称「宁可牺牲云业务利润，也要打赢前沿大模型生死战」，大模型对于谷歌有多重要？",
+          "url": "https://www.zhihu.com/question/2097989360473694568",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         }
       ]
     }
