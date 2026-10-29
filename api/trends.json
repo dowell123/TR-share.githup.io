@@ -1,364 +1,12 @@
 {
-  "generated_at": "2026-10-29T22:51:08.596004+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-10-30T04:00:34.577509+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "美联储按兵不动，美股指三连涨，甲骨文大涨11%，盘后谷歌大跌10%、微软走强",
-          "url": "https://wallstreetcn.com/articles/3784634",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 22时51分]"
-        },
-        {
-          "title": "谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784714",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 22时51分]"
-        },
-        {
-          "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
-          "url": "https://www.cls.cn/detail/2518583",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时54分]"
-        },
-        {
-          "title": "谷歌电话会：承认AI搜索变现偏低，TPU库存拖累自由现金流转负，明年是“收获年”但资本开支也将大增",
-          "url": "https://wallstreetcn.com/articles/3784718",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时53分 ~ 22时51分]"
-        },
-        {
-          "title": "Alphabet(GOOG.O)CEO皮查伊：Gemini 4 Carbon将于今年晚些时候向消费者开放。",
-          "url": "https://flash.jin10.com/detail/20261029051326154800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)CEO皮查伊：我们正为超过10亿用户开发Gemini 4 Carbon的精简版本。",
-          "url": "https://flash.jin10.com/detail/20261029051249147800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "谷歌母公司Alphabet未来承诺、租赁、采购金额已经突破1万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3189413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%",
-          "url": "https://www.cls.cn/detail/2518619",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时54分]"
-        },
-        {
-          "title": "如何看待谷歌推出 Gemini 4 Carbon，在多个榜单拿下全球第一？",
-          "url": "https://www.zhihu.com/question/2098949045934880103",
-          "source": "知乎",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时54分]"
-        },
-        {
-          "title": "谷歌财报重挫市场信心，纳指低开跌1.35%，Alphabet跌幅扩大至13.7%，创历史最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3784748",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "谷歌盘前大跌逾11%，或创上市以来最大财报后跌幅",
-          "url": "https://www.cls.cn/detail/2519632",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "谷歌盘初大跌超13%",
-          "url": "https://www.toutiao.com/trending/7702083319176891946/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "谷歌暴跌13% 创其历史最大单日跌幅",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%9A%B4%E8%B7%8C13%25+%E5%88%9B%E5%85%B6%E5%8E%86%E5%8F%B2%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "电话会：谷歌母公司Alphabet预计全年资本开支1950亿-2050亿美元，分析师预期2022.1亿美元。谷歌A盘后跌幅扩大至10%。",
-          "url": "https://wallstreetcn.com/livenews/3189410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "谷歌云：Cloud SQL的PostgreSQL蓝绿部署支持即将推出。",
-          "url": "https://flash.jin10.com/detail/20261029004138186800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "谷歌调拨82亿美元其他收入，来应对马斯克旗下太空探索公司SpaceX股价下跌。",
-          "url": "https://wallstreetcn.com/livenews/3189409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "谷歌云：宣布推出面向MySQL的Cloud SQL全托管蓝绿部署预览版。",
-          "url": "https://flash.jin10.com/detail/20261029004100496800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "谷歌母公司Alphabet首席执行官Pichai：Waymo自动驾驶里程已超过3亿英里。",
-          "url": "https://wallstreetcn.com/livenews/3189403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)高管：谷歌云平台占第三季度谷歌云营收的绝大部分。",
-          "url": "https://flash.jin10.com/detail/20261029050236961800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "谷歌母公司Alphabet的云首席执行官Kurian：在财富100榜单上，Gemini Enterprise用户超过90%。 AI网络安全风险正驱动需求。 谷歌与Meta携手打造Torch TPU。 谷歌与直接与Anthropic围绕TPU合作，公司还与博通合作。 苹果公司在我司TUPs上预训练功能模型。",
-          "url": "https://wallstreetcn.com/livenews/3189401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "谷歌母公司Alphabet首席执行官Pichai：AI模型Argon已经促进谷歌的代码开发。 新款AI模型Carbon是我司最强大的，其性能超越Gemini 4 Argon。 谷歌将在Chrome、安卓以及Google Workspace中拓展智能体AI。 搜索查询量正以五年来最快速度增长。",
-          "url": "https://wallstreetcn.com/livenews/3189400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：宣布面向红帽和容器的AlloyDB Omni Web UI正式可用。",
-          "url": "https://flash.jin10.com/detail/20261029002953231800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "谷歌(GOOG.O)直接与Anthropic就TPU开展合作，并与博通(AVGO.O)合作。",
-          "url": "https://flash.jin10.com/detail/20261029050031859800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)高管：Gemini企业客户的支出同比增长超过三倍。",
-          "url": "https://flash.jin10.com/detail/20261029045102885800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)高管：TPU系统销售是谷歌云增长的重要贡献因素。",
-          "url": "https://flash.jin10.com/detail/20261029044918913800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "谷歌母公司Alphabet分析师电话会议",
-          "url": "https://wallstreetcn.com/livenews/3189494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)高管：谷歌YouTube订阅业务增长快于广告业务。",
-          "url": "https://flash.jin10.com/detail/20261029044714482800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "谷歌母公司Alphabet（谷歌A）三季度营收1275.8亿美元，分析师预期1279.3亿美元。 三季度ex-TAC（剔除流量获取成本后的营收）为1112.1亿美元，分析师预期1112.9亿美元。 三季度谷歌云收入307.1亿美元，分析师预期291亿美元。 三季度谷歌广告收入820.1亿美元，分析师预期835.7亿美元。 三季度谷歌搜索与其他收入633.5亿美元，分析师预期648.5亿美元。 三季度谷歌服务收入963亿美元，分析师预期984亿美元。 三季度YouTube广告收入112.1亿美元，分析师预期114.3亿美元。 三季度资本开支513.6亿美元，分析师预期557.8亿美元。 三季度每股收益（EPS）为2.12美元，上年同期2.87美元。 三季度运营利润405.8亿美元，分析师预期431.6亿美元。 Gemini应用程序的用户数量已达10亿。 每分钟拥有大约320亿Tokens，季环比增长40%。 YouTube音乐和溢价全球订阅用户数突破1.5亿。 Gemini 4 Argon和Carbon是（公司）当前领先的前沿模型。 AI投资驱动整体搜索业务的增长，其同比增幅创最近五年最快。 谷歌A美股盘后重挫7%。",
-          "url": "https://wallstreetcn.com/livenews/3189386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "如果共和党中期选举输了怎么办？特朗普回应",
-          "url": "https://news.ifeng.com/c/8xabEL09CAG",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 09时27分]"
-        },
-        {
-          "title": "特朗普力挺内塔尼亚胡，万斯为何不跟？",
-          "url": "https://original.ifeng.com/c/8xagHUQBnzH",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 09时27分]"
-        },
-        {
-          "title": "特朗普：很快将安排普京与泽连斯基的会晤",
-          "url": "https://news.ifeng.com/c/8xanNarKZSI",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 05时30分]"
-        },
         {
           "title": "马杜罗案主审法官去世，新任法官与特朗普“很不对付”",
           "url": "https://news.ifeng.com/c/8xcaVgbuv5d",
@@ -367,63 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
+          "appearance_count": 1,
+          "time_info": "04时00分"
         },
         {
-          "title": "美国总统特朗普再次批评巴西选举。",
-          "url": "https://flash.jin10.com/detail/20261029224101671800",
+          "title": "美媒：美军中央司令向特朗普汇报对伊朗打击方案",
+          "url": "https://flash.jin10.com/detail/20261030032103146800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普宣称：我会与赢得连任的巴西总统卢拉谈谈。",
-          "url": "https://wallstreetcn.com/livenews/3190616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普：没有和巴西前总统博索纳罗之子谈过话。",
-          "url": "https://flash.jin10.com/detail/20261029051207380800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "美国总统特朗普：我会和巴西总统卢拉谈谈。",
-          "url": "https://flash.jin10.com/detail/20261029223926291800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美军最高层战略规划官员遭解职 特朗普淡化美伊和谈预期",
-          "url": "https://www.cls.cn/detail/2519386",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
+          "time_info": "04时00分"
         },
         {
           "title": "得州保守派领袖答凤凰：油价上涨不怪特朗普，警惕“穆斯林危机”",
@@ -433,402 +37,212 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "美国总统特朗普：从GDP角度看，这个早晨很好。",
-          "url": "https://wallstreetcn.com/livenews/3190611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "04时00分"
         },
         {
-          "title": "美国总统特朗普：从GDP角度看，这是一个美好的早晨。",
-          "url": "https://flash.jin10.com/detail/20261029223643239800",
+          "title": "据华尔街日报：据美国官员和其他直接了解相关会晤的人士透露，美国驻中东最高指挥官当地时间周四向美国总统特朗普汇报了对伊朗的军事选项。",
+          "url": "https://flash.jin10.com/detail/20261030031437787800",
           "source": "金十数据",
           "ranks": [
-            7
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "04时00分"
         },
         {
-          "title": "特朗普下令美国贸易代表就机器人和机械进口寻求谈判",
-          "url": "https://wallstreetcn.com/livenews/3189407",
+          "title": "美军最高上将向特朗普汇报伊朗打击方案",
+          "url": "https://wallstreetcn.com/livenews/3190726",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "04时00分"
         },
         {
-          "title": "美媒：特朗普承认万斯曾致信伊朗官员，称主要是为向伊方提供医疗物资",
-          "url": "https://wallstreetcn.com/livenews/3189489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "特朗普愿意再给伊朗外交机会？英特尔财报将迎关键考验 | Plus日报",
-          "url": "https://flash.jin10.com/detail/20261029223028644800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "WTI原油日内涨幅达3.0%，报102.91美元/桶。 此前，特朗普政府告诉海湾地区盟友们，准备好面对美国在中期选举过后袭击伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3189278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "据以色列今日报：美国高级外交官员表示，美国总统特朗普仍决心彻底消除伊朗军事核计划，并消除对霍尔木兹海峡及伊朗邻国的军事威胁。",
-          "url": "https://flash.jin10.com/detail/20261029002138531800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
-          "url": "https://wallstreetcn.com/articles/3784679",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 15时54分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
-          "url": "https://www.cls.cn/detail/2518554",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时54分]"
-        },
-        {
-          "title": "微软花式挑战历史新高 美股“三连涨”后面临严峻考验 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2519683",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
-          "url": "https://wallstreetcn.com/articles/3784634",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 05时30分]"
-        },
-        {
-          "title": "美股三大指数高开 SK海力士涨超8%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%B6%A8%E8%B6%858%25",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 05时30分]"
-        },
-        {
-          "title": "纳斯达克100股指期货在美股盘后达到1%。",
-          "url": "https://wallstreetcn.com/livenews/3189405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "丹麦Genmab抗癌药物试验报捷 美股股价涨约30%创新高",
-          "url": "https://www.cls.cn/detail/2518474",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "金十图示：2026年10月28日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261029003130830800",
+          "title": "特朗普：美国经济正以3.4%的速度强劲增长",
+          "url": "https://flash.jin10.com/detail/20261030025522506800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "04时00分"
         },
         {
-          "title": "金十图示：2026年10月28日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261029003047749800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "飞塔信息（Fortinet）三季度营收20.8亿美元，分析师预期20.7亿美元。 三季度Billings（账单收入/订单金额）为23.4亿美元，分析师预期23亿美元。 三季度调整后每股收益（EPS）为0.91美元，分析师预期0.86美元。 预计全年营收81.3亿-82.2亿美元，公司原本预计80.2亿-81.8亿美元。 预计全年服务营收51.5亿-51.7亿美元，分析师预期52亿美元。 预计全年调整后毛利润率79.7%-80.3%，公司原本预计79%-81%。 预计全年Billings将为95.7亿-97.2亿美元，公司原本预计93.5亿-95.5亿美元。 预计四季度营收21.6亿-22.5亿美元，分析师预期21.7亿美元。 飞塔信息（FTNT）美股盘后暴跌22.5%。",
-          "url": "https://wallstreetcn.com/livenews/3189399",
+          "title": "现任及前任美国官员称，特朗普政府计划在下周美国中期选举结束后对伊朗发动打击，美军飞机正调往相关位置，预计将使用MOAB（“炸弹之母”）大型空爆炸弹。（Newsmax）",
+          "url": "https://wallstreetcn.com/livenews/3190716",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "04时00分"
         },
         {
-          "title": "ServiceNOW三季度营收41.1亿美元，分析师预期41亿美元。 三季度调整后每股收益（EPS）为1美元，分析师预期1.03美元。 预计四季度订阅收入将达到42.5亿-42.6亿美元，分析师预期42.4亿美元。 预计四季度剩余待偿还债务将增长18.5%，三季度为136.5亿美元。 ServiceNOW美股盘后跌16.8%。",
-          "url": "https://wallstreetcn.com/livenews/3189398",
+          "title": "据Newsmax：现任及前任美国官员称，特朗普政府计划在下周美国中期选举结束后对伊朗发动打击，美军飞机正调往相关位置，预计将使用MOAB（“炸弹之母”）大型空爆炸弹。",
+          "url": "https://flash.jin10.com/detail/20261030024842616800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时00分"
+        },
+        {
+          "title": "美国总统特朗普警告称，民主党若在中期选举中获胜，将引发类似1929年的经济大萧条。",
+          "url": "https://wallstreetcn.com/livenews/3190714",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "04时00分"
         },
         {
-          "title": "美股软件行业ETF美股盘后跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3189396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "Honeywell Aerospace Inc.（HONA）美股盘后涨7.3%。",
-          "url": "https://wallstreetcn.com/livenews/3189393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "微软第一财季营收922.8亿美元，分析师预期906.3亿美元。 第一财季云收入639亿美元，分析师预期616.2亿美元。 第一财季Azure营收331.7亿美元，分析师预期322.4亿美元；Azure剔除汇率因素的营收增长48%，分析师预期增长44.8%。 第一财季365云营收277.8亿美元，分析师预期274.8亿美元；微软365消费者云收入增长17%。 第一财季工业解决方案云营收增长10%。 第一财季运营利润459.2亿美元，分析师预期439.2亿美元。 第一财季资本开支393.7亿美元，分析师预期459.3亿美元；含租赁的资本开支452亿美元，分析师预期518.1亿美元。 第一财季调整后每股收益（EPS）为4.89美元，分析师预期4.73美元。 微软美股盘后涨6.4%。",
-          "url": "https://wallstreetcn.com/livenews/3189385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "普京会晤伊朗总统讨论中东局势",
-          "url": "https://www.douyin.com/hot/2716809",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 05时30分]"
-        },
-        {
-          "title": "伊朗尚未回应美国副总统万斯的来信。（伊朗媒体Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3190614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "万斯致信伊朗安全高官试图重启谈判 欧洲天然气近四年来首破100欧元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2518584",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时54分]"
-        },
-        {
-          "title": "分析：美国希望避免与伊朗爆发更多冲突",
-          "url": "https://flash.jin10.com/detail/20261029152601281800",
+          "title": "美国总统特朗普：石油和汽油价格将大幅下跌。",
+          "url": "https://flash.jin10.com/detail/20261030023233295800",
           "source": "金十数据",
           "ranks": [
-            12
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "04时00分"
         },
         {
-          "title": "以媒：美官员称对伊朗后续打击不受以色列组阁进程影响",
-          "url": "https://flash.jin10.com/detail/20261029003538139800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "美国参议院多数派领导人图恩（John Thune）：汽油价格是一个短期问题。 汽油价格将会下降。 伊朗问题最终将会结束。",
-          "url": "https://wallstreetcn.com/livenews/3190590",
+          "title": "美国总统特朗普预测石油和汽油价格将大幅下跌。",
+          "url": "https://wallstreetcn.com/livenews/3190711",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "04时00分"
         },
         {
-          "title": "伊朗部长：伊朗与土耳其有条件扩大双边合作",
-          "url": "https://flash.jin10.com/detail/20261029151821469800",
+          "title": "美国总统特朗普警告称，民主党若在中期选举中获胜，将引发1929年式的经济大萧条。",
+          "url": "https://flash.jin10.com/detail/20261030023145324800",
           "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时00分"
+        },
+        {
+          "title": "美国总统特朗普重申将墨西哥湾更名为美国湾，提议将霍尔木兹海峡更名为特朗普海峡。",
+          "url": "https://wallstreetcn.com/livenews/3190707",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "04时00分"
         },
         {
-          "title": "美国官员及知情人士称，美国副总统万斯正接触伊朗最有权势的强硬派人物之一，以重启和平谈判。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3189387",
+          "title": "美国总统特朗普：加拿大近来对我们态度不错。",
+          "url": "https://wallstreetcn.com/livenews/3190704",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "04时00分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
       "titles": [
         {
-          "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34351416",
-          "source": "澎湃新闻",
+          "title": "美联储按兵不动，美股指三连涨，甲骨文大涨11%，盘后谷歌大跌10%、微软走强",
+          "url": "https://wallstreetcn.com/articles/3784634",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 15时54分]"
+          "appearance_count": 1,
+          "time_info": "04时00分"
         },
         {
-          "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
-          "url": "https://www.cls.cn/detail/2518311",
-          "source": "财联社热门",
+          "title": "谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784714",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            12
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 05时30分]"
+          "appearance_count": 1,
+          "time_info": "04时00分"
         },
         {
-          "title": "如何评价亚马逊前华人女工程师疑似按照 ChatGPT 的建议自行减少抗癫痫药物后猝死这一事件？",
-          "url": "https://www.zhihu.com/question/2098895782283841766",
+          "title": "谷歌财报重挫市场信心，纳指低开跌1.35%，Alphabet跌幅扩大至13.7%，创历史最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784748",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时00分"
+        },
+        {
+          "title": "谷歌盘前大跌逾11%，或创上市以来最大财报后跌幅",
+          "url": "https://www.cls.cn/detail/2519632",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时00分"
+        },
+        {
+          "title": "谷歌发布第三季度财报后，盘后一度下跌 10%，市场在担忧什么？",
+          "url": "https://www.zhihu.com/question/2099071583642039255",
           "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 15时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "04时00分"
+        },
         {
-          "title": "如何理解梁文锋「在颠覆性的技术面前，闭源形成的护城河是短暂的」这一判断？",
-          "url": "https://www.zhihu.com/question/2098733383778149122",
-          "source": "知乎",
+          "title": "谷歌电话会：承认AI搜索变现偏低，TPU库存拖累自由现金流转负，明年是“收获年”但资本开支也将大增",
+          "url": "https://wallstreetcn.com/articles/3784718",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时53分 ~ 22时51分]"
+          "appearance_count": 1,
+          "time_info": "04时00分"
+        },
+        {
+          "title": "谷歌暴跌13% 创其历史最大单日跌幅",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%9A%B4%E8%B7%8C13%25+%E5%88%9B%E5%85%B6%E5%8E%86%E5%8F%B2%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时00分"
         }
       ]
     },
@@ -837,15 +251,66 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
-          "url": "https://wallstreetcn.com/articles/3784535",
-          "source": "华尔街见闻",
+          "title": "金价跌回8字头 有人直奔柜台买金条",
+          "url": "https://www.toutiao.com/trending/7702013997255495231/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软花式挑战历史新高 美股“三连涨”后面临严峻考验 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2519683",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 05时30分]"
+          "appearance_count": 1,
+          "time_info": "04时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（10月29日）纽约尾盘，ICE美元指数跌0.16%，报102.033点，日内交投区间为102.448-101.946点，北京时间21:19刷新日高，随后快速下挫。 彭博美元指数涨0.03%，报1224.39点，日内交投区间为1222.97-1227.16点，也曾在21:19刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3190728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊媒：伊朗尚未对美副总统来信作出回应",
+          "url": "https://wallstreetcn.com/livenews/3190614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时00分"
         }
       ]
     }
